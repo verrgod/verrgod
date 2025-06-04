@@ -1,5 +1,5 @@
-<h1 align="left">yo👋, i'm vernon</h1>
-<h2 align="left">love music</h3>
+<h2 align="left">yo👋, i'm vernon</h2>
+<p align="left">love music</p>
 
 🔭 i’m currently working on [an audio transcription app](https://github.com/verrgod/transcription-project)
 
